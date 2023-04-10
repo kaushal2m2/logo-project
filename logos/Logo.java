@@ -10,7 +10,7 @@
  * 5) A simple stitch-like shape.
  * 6) A slide show containing all non-user-controlled elements of this class.
  * 7) The mouse can be clicked and held at any time to pause any ongoing animations.
- * This class depends on the class StdDraw for all graphical elements.
+ * Dependencies: This class depends on the class StdDraw for all graphical elements.
  * @author Kaushal Marimuthu
  * @version 1.0
  * @since 1/21/2020
