@@ -1,1 +1,2 @@
 # logo-project
+This project utilizes java graphics to explore animation using java. The project creates different logos, animated and not animated and examines the efficiency of them running on a machine. Logos are meant to be light, but it seemed that animation in java was a pretty intensive process, as the initial program appeared to run very choppy and staggered. With optimizations and the use of StdDraw - a library from Princeton used to simplify the graphics in java, the project runs much better, and the animations are a lot smoother. 
